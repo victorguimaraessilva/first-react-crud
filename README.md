@@ -22,6 +22,7 @@ Funcionalidades que deverão ser desenvolvidas:
 	Utilizar servico REST:
 		endpoint: https://test-frontend-neppo.herokuapp.com/pessoas/
 [Documentacao servico REST para referencia](https://test-frontend-neppo.herokuapp.com/apipie/)
+https://test-frontend-neppo.herokuapp.com/apipie/
 
 
 #Pré requisitos, tecnologias:

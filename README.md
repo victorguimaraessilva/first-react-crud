@@ -1,4 +1,4 @@
-# **NEPPO - Teste Frontend** #
+# **NEPPO - Teste Frontend Web Based** #
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dictum tellus. Maecenas accumsan nunc fringilla lobortis vulputate. Sed eu sagittis nisl. Pellentesque vitae fermentum ante. Curabitur iaculis ut justo non tempus. Nulla convallis sem consequat purus sodales, eu dignissim nulla gravida. Donec rhoncus massa nisl. Nulla facilisi. Aliquam posuere est lacus, in tempor sapien suscipit a.
 
@@ -9,6 +9,7 @@ Prova frontend
 
 Desenvolver projeto web based utilizando as tecnologias html5, javascript (ecmascript 2015), css3.
 Funcionalidades que deverão ser desenvolvidas:
+
 	CRUD de pessoas
 		Criar tela de pesquisa, cadastro, edição e exclusão de pessoas.
 			Objeto "Pessoa" terá os seguintes atributos: nome, data nascimento, documento de identificação, sexo, endereco.
@@ -20,17 +21,17 @@ Funcionalidades que deverão ser desenvolvidas:
 			Grafico contendo quantidade de pessoas que tenham sexo masculino e feminino
 
 
-Javascript:
-- Utilizar ES6+
-- Criar projeto modularizado, aplicar conceitos AMD(http://2ality.com/2014/09/es6-modules-final.html)
+	Javascript:
+		- Utilizar ES6+
+		- Criar projeto modularizado, aplicar conceitos AMD(http://2ality.com/2014/09/es6-modules-final.html)
 
-HTML e CSS:
-- Utilizar HTML5
-- Utilizar CSS3(https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS3) & SASS(se preciso)
-- Desenvolver utilizando layout responsivo
+	HTML e CSS:
+		- Utilizar HTML5
+		- Utilizar CSS3(https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS3) & SASS(se preciso)
+		- Desenvolver utilizando layout responsivo
 
-UX:
-- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
+	UX:
+		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
 
 Nice to have(plus):
 - Typescript

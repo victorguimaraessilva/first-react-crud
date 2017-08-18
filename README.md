@@ -50,7 +50,7 @@ Funcionalidades que deverão ser desenvolvidas:
 			google-material-design(https://material.io/guidelines/material-design/introduction.html)
 			metro-io(https://metroui.org.ua/)
 
-Observação: Os itens acima não são mandatórios.
+*Observação: Os itens acima não são mandatórios.
 
 
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.

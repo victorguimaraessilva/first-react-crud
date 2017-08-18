@@ -35,8 +35,7 @@ Funcionalidades que deverão ser desenvolvidas:
 		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
 
 
-#Boas práticas, hint:
-	*Observação: Os itens abaixo não são mandatórios.
+#Hint (opcional):
 	Sera avaliado também qualidade e melhores práticas para projetos frontend webbased, portanto se atente aos itens abaixo:
 		- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
 		- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 

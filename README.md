@@ -33,19 +33,19 @@ Funcionalidades que deverão ser desenvolvidas:
 	UX:
 		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
 
-Nice to have(plus):
-- Typescript
-- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
-- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
-- Ter import de apenas um arquivo JS.
-- Testes unitários
-- Padrões de projetos(design patterns)
-- Flux/Redux
-- Ter import de apenas um arquivo CSS.
-- Utilizar algum framework de view, como: 
-	bootstrap(http://getbootstrap.com/)
-	google-material-design(https://material.io/guidelines/material-design/introduction.html)
-	metro-io(https://metroui.org.ua/)
+	Nice to have(plus):
+		- Typescript
+		- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
+		- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
+		- Ter import de apenas um arquivo JS.
+		- Testes unitários
+		- Padrões de projetos(design patterns)
+		- Flux/Redux
+		- Ter import de apenas um arquivo CSS.
+		- Utilizar algum framework de view, como: 
+			bootstrap(http://getbootstrap.com/)
+			google-material-design(https://material.io/guidelines/material-design/introduction.html)
+			metro-io(https://metroui.org.ua/)
 
 
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.

@@ -35,14 +35,15 @@ Funcionalidades que deverão ser desenvolvidas:
 		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
 
 
-#Boas práticas, o que se espera:
-	Será avaliado também qualidade e melhores práticas para projetos frontend webbased, portanto se atente aos itens abaixo:
+#Boas práticas, hint:
+	*Observação: Os itens abaixo não são mandatórios.
+	Sera avaliado também qualidade e melhores práticas para projetos frontend webbased, portanto se atente aos itens abaixo:
 		- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
 		- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
 		- Typescript (se tiver conhecimento pode optar pelo desenvolvimento deste ao invés de javascript)
 		- Ter import de apenas um arquivo JS.
 		- Testes unitários
-		- Padrões de projetos(design patterns)
+		- Padroes de projetos(design patterns)
 		- Flux/Redux
 		- Ter import de apenas um arquivo CSS.
 		- Utilizar algum framework de view responsivo, como: 
@@ -50,7 +51,7 @@ Funcionalidades que deverão ser desenvolvidas:
 			google-material-design(https://material.io/guidelines/material-design/introduction.html)
 			metro-io(https://metroui.org.ua/)
 
-*Observação: Os itens acima não são mandatórios.
+
 
 
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.

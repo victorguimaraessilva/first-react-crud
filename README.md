@@ -17,7 +17,7 @@ Funcionalidades que deverão ser desenvolvidas:
 			
 	Relatório de pessoas
 		Criar tela que contenha resultados graficos das pessoas.
-			Grafico de idades de pessoas que tenham faixa de idade ["0 a 9", "10 a 19", "20 a 29", "30 a 39", "Maior que 40"]
+			Grafico da faixa de idades das pessoas, faixas: ["0 a 9", "10 a 19", "20 a 29", "30 a 39", "Maior que 40"]
 			Grafico contendo quantidade de pessoas que tenham sexo masculino e feminino
 
 

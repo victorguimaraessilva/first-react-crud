@@ -14,10 +14,15 @@ Funcionalidades que deverão ser desenvolvidas:
 			Objeto "Pessoa" terá os seguintes atributos: nome, data nascimento, documento de identificação, sexo, endereco.
 			Incluir validação de obrigatório para todos os campos: documento de identificação, nome, data nascimento e sexo.
 			
-	Relatório de pessoas
+	Relatorio de pessoas
 		Criar tela que contenha resultados graficos das pessoas.
 			Grafico da faixa de idades das pessoas, faixas: ["0 a 9", "10 a 19", "20 a 29", "30 a 39", "Maior que 40"]
 			Grafico contendo quantidade de pessoas que tenham sexo masculino e feminino
+	
+	Tanto para o CRUD quanto para o relatorio utilizar um servico pronto:
+		URI: 
+			https://test-frontend-neppo.herokuapp.com/pessoas/			
+		Utilize a documentacao como referencia: https://test-frontend-neppo.herokuapp.com/apipie/
 
 
 #Pré requisitos, tecnologias:
@@ -33,6 +38,7 @@ Funcionalidades que deverão ser desenvolvidas:
 
 	UX:
 		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
+	
 
 
 #Hint (opcional):

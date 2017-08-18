@@ -19,10 +19,9 @@ Funcionalidades que deverão ser desenvolvidas:
 			Grafico da faixa de idades das pessoas, faixas: ["0 a 9", "10 a 19", "20 a 29", "30 a 39", "Maior que 40"]
 			Grafico contendo quantidade de pessoas que tenham sexo masculino e feminino
 	
-	Tanto para o CRUD quanto para o relatorio utilizar um servico pronto:
-		URI: 
-			https://test-frontend-neppo.herokuapp.com/pessoas/			
-		Utilize a documentacao como referencia: https://test-frontend-neppo.herokuapp.com/apipie/
+	Utilizar servico REST:
+		endpoint: https://test-frontend-neppo.herokuapp.com/pessoas/
+[Documentacao servico REST para referencia](https://test-frontend-neppo.herokuapp.com/apipie/)
 
 
 #Pré requisitos, tecnologias:

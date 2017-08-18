@@ -57,6 +57,4 @@ Funcionalidades que deverão ser desenvolvidas:
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.
 Caso tenha problemas em criar um fork, siga o link [How to Fork in bitbucket](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html#ForkingaRepository-HowtoForkaRepository)
 
-A equipe chinesa sugiriu o uso de alguma dessas IDEs: [VSCODE](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/), [Atom](https://atom.io/), [SublimeText](https://www.sublimetext.com/)
-
-Nos ajude!
+Sugestão de editores de texto (IDE): [VSCODE](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/), [Atom](https://atom.io/), [SublimeText](https://www.sublimetext.com/)

@@ -1,9 +1,5 @@
 # **NEPPO - Teste Frontend Web Based** #
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dictum tellus. Maecenas accumsan nunc fringilla lobortis vulputate. Sed eu sagittis nisl. Pellentesque vitae fermentum ante. Curabitur iaculis ut justo non tempus. Nulla convallis sem consequat purus sodales, eu dignissim nulla gravida. Donec rhoncus massa nisl. Nulla facilisi. Aliquam posuere est lacus, in tempor sapien suscipit a.
-
-Nam faucibus luctus nisl. Quisque lobortis auctor porttitor. Proin venenatis leo turpis, eget luctus nibh porttitor nec. Duis sit amet accumsan nisi. Nulla ante magna, dapibus at imperdiet ac, tempus rutrum mauris. Nunc congue lectus id cursus ultricies. Integer mollis faucibus lacus, non dignissim leo eleifend sit amet. Nunc viverra est quis commodo mollis. Nunc vitae dapibus arcu. Cras egestas, tortor non gravida mollis, dui turpis maximus sapien, a euismod nisl arcu ut lorem. Morbi lacinia quam est, et aliquet purus interdum id. Fusce luctus sollicitudin nunc, eu tristique est. Fusce varius ex quis dignissim sagittis."
-
 #Projeto a ser desenvolvido:
 
 Desenvolver projeto web based utilizando as tecnologias html5, javascript (ecmascript 2015), css3.

@@ -4,7 +4,8 @@
 
 Nam faucibus luctus nisl. Quisque lobortis auctor porttitor. Proin venenatis leo turpis, eget luctus nibh porttitor nec. Duis sit amet accumsan nisi. Nulla ante magna, dapibus at imperdiet ac, tempus rutrum mauris. Nunc congue lectus id cursus ultricies. Integer mollis faucibus lacus, non dignissim leo eleifend sit amet. Nunc viverra est quis commodo mollis. Nunc vitae dapibus arcu. Cras egestas, tortor non gravida mollis, dui turpis maximus sapien, a euismod nisl arcu ut lorem. Morbi lacinia quam est, et aliquet purus interdum id. Fusce luctus sollicitudin nunc, eu tristique est. Fusce varius ex quis dignissim sagittis."
 
-Prova frontend
+=================================
+Projeto a ser desenvolvido:
 ==================================
 
 Desenvolver projeto web based utilizando as tecnologias html5, javascript (ecmascript 2015), css3.
@@ -20,6 +21,9 @@ Funcionalidades que deverão ser desenvolvidas:
 			Grafico da faixa de idades das pessoas, faixas: ["0 a 9", "10 a 19", "20 a 29", "30 a 39", "Maior que 40"]
 			Grafico contendo quantidade de pessoas que tenham sexo masculino e feminino
 
+=================================
+Pré requisitos, tecnologias:
+=================================
 
 	Javascript:
 		- Utilizar ES6+
@@ -33,19 +37,24 @@ Funcionalidades que deverão ser desenvolvidas:
 	UX:
 		- Desenvolva pensando e aplicando conceitos de UX (http://designculture.com.br/conceitos-fundamentais-de-um-bom-ux)
 
-	Nice to have(plus):
-		- Typescript
-		- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
-		- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
-		- Ter import de apenas um arquivo JS.
-		- Testes unitários
-		- Padrões de projetos(design patterns)
-		- Flux/Redux
-		- Ter import de apenas um arquivo CSS.
-		- Utilizar algum framework de view, como: 
-			bootstrap(http://getbootstrap.com/)
-			google-material-design(https://material.io/guidelines/material-design/introduction.html)
-			metro-io(https://metroui.org.ua/)
+=================================
+Boas práticas, o que se espera:
+=================================
+Será avaliado também qualidade e melhores práticas para projetos frontend webbased, portanto se atente aos itens abaixo:
+	- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
+	- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
+	- Typescript (se tiver conhecimento pode optar pelo desenvolvimento deste ao invés de javascript)
+	- Ter import de apenas um arquivo JS.
+	- Testes unitários
+	- Padrões de projetos(design patterns)
+	- Flux/Redux
+	- Ter import de apenas um arquivo CSS.
+	- Utilizar algum framework de view responsivo, como: 
+		bootstrap(http://getbootstrap.com/)
+		google-material-design(https://material.io/guidelines/material-design/introduction.html)
+		metro-io(https://metroui.org.ua/)
+
+Observação: Os itens acima não são mandatórios.
 
 
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.

@@ -36,22 +36,19 @@ Funcionalidades que deverão ser desenvolvidas:
 	
 
 
-#Hint (opcional):
-	Sera avaliado tambem qualidade e melhores praticas para projetos frontend webbased, portanto se atente aos itens abaixo:
-		- Utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
-		- Utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
-		- Typescript (se tiver conhecimento pode optar pelo desenvolvimento deste ao inves de javascript)
-		- Ter import de apenas um arquivo JS.
-		- Testes unitarios
-		- Padroes de projetos(design patterns)
-		- Flux/Redux
-		- Ter import de apenas um arquivo CSS.
-		- Utilizar algum framework de view responsivo, como: 
-			bootstrap(http://getbootstrap.com/)
-			google-material-design(https://material.io/guidelines/material-design/introduction.html)
-			metro-io(https://metroui.org.ua/)
-
-
+#Hint (dicas):
+	Abaixo contem algumas dicas para tornar seu projeto melhor:
+		- Tente desenvolver testes unitarios
+		- Tente utilizar padroes de projetos(design patterns)
+		- Tente desenvolver usando o conceito single Page Application (SPA)
+		- Tente usar algum framework JS, como por exemplo: Angular, Vue.js, React, AngularJS.
+	  	- Tente utilizar algum framework de view, como por exemplo: bootstrap, google-material-design, metro-io
+		- Tente usar Flux/Redux
+		- Tente utilizar alguma ferramenta facilitadora para "unificar, minificar e obfuscar arquivos estaticos", como: webpack, gulp, grunt, etc.
+		- Tente utilizar algum gerenciador de pacotes javascript(gerenciador de dependencias), como: yarn, NPM, Bower. 
+		- Tente usar Typescript (se tiver conhecimento pode optar pelo desenvolvimento deste ao inves de javascript)
+		- Tente ter import de apenas um arquivo JS no arquivo HTML.				
+		- Tente ter import de apenas um arquivo CSS no arquivo HTML.
 
 
 Crie um fork deste projeto faça as alterações necessárias e nos envie a url.

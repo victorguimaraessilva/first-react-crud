@@ -51,7 +51,7 @@ Funcionalidades que deverão ser desenvolvidas:
 		- Tente ter import de apenas um arquivo CSS no arquivo HTML.
 
 
-Crie um fork deste projeto faça as alterações necessárias e nos envie a url.
+Crie um fork deste repo, faça o desenvolvimento necessario e nos envie a url.
 Caso tenha problemas em criar um fork, siga o link [How to Fork in bitbucket](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html#ForkingaRepository-HowtoForkaRepository)
 
 Sugestão de editores de texto (IDE): [VSCODE](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/), [Atom](https://atom.io/), [SublimeText](https://www.sublimetext.com/)

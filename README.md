@@ -24,7 +24,7 @@ Funcionalidades que deverão ser desenvolvidas:
 
 	Javascript:
 		- Utilizar ES6+
-		- Criar projeto modularizado, aplicar conceitos AMD(http://2ality.com/2014/09/es6-modules-final.html)
+		- Criar projeto modularizado, aplicar conceitos ECMAScript 6 modules, AMD ou CommonJS(http://2ality.com/2014/09/es6-modules-final.html)
 
 	HTML e CSS:
 		- Utilizar HTML5
